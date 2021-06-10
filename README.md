@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SIDDHARTHKUMAR7739
-- 👀 I’m interested in controbuting in open source 
+- 👀 I’m interested in...
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me siddharth98355@gmail.com
